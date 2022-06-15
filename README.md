@@ -1,6 +1,6 @@
 # Modeling RNA Binding Protein Regulatory Interactions and Expression Networks within Retinoblastoma Single Cell RNA Sequencing (scRNA) Datasets
 
-Necessary Dependencies Required to Install:
+**Necessary Dependencies Required to Install:**
 1. Python (Version 3.9.5)
 2. ScanPy (Version 1.8.1)
 3. GSEApy (Version 0.10.5)
